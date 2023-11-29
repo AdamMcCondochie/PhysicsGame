@@ -1,2 +1,3 @@
 # PhysicsGame
-[![Watch the video](https://img.youtube.com/vi/https://youtu.be/IZDAUHJodNY/hqdefault.jpg)](https://www.youtube.com/embed/https://youtu.be/IZDAUHJodNY)
+[<img src="https://img.youtube.com/vi/IZDAUHJodNY/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/IZDAUHJodNY)
